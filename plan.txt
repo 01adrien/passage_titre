@@ -1,0 +1,46 @@
+
+
+* TABLE DES MATIERES *
+
+* INTRO *
+  - context de reconversion + formation + stage
+  
+* RAPPEL REFERENCIEL *
+
+* PRESENTATION DU PROJET *
+  - le stage, son context, mon travail, le choix de faire un projet a cote.
+  - resume du projet
+  - organisation du projet zenhub, deploiement en fin de sprint.
+  - Details sur les outils / stack  
+ 
+* LES MAQUETTES *
+  - realises avec figma / responsive
+  - quelques visuels
+  - soucis de rendre une experience en fonction de l'ecran (les menus)
+  
+* ARCHITECTURES ET ENVIRONNEMENTS DE DEV *
+  - MVC c'est quoi.. (scalabilite)
+  - La base de donnees + php myadmin
+  - MCD + MLD
+  - environnent dev (serveur parcel pour le front serveur apache local pour le backend )
+  - environnement prod (tout sur pulseheberg)
+  - config en fonction ENV, .env et config.php, NODE_ENV
+  
+* LE BACKEND *
+  - Les modeles, la classe abstraite Table pour le CRUD, une table SQL par modele qui herite de Table (visuels)
+  - Les controlleurs, classe abstraite, formatage des donnees..
+  - Le routeur, htacces, url rewruting, httpOrigin, chemin d'une requete sur le serveur.
+  - API
+  
+* LE FRONTEND *
+  - explication communication avec le serveur
+  - routes API par categories, AXIOS.
+  - utilisation tailwind + flobite, utilite d'un design system..
+  - les custom hooks et pourquoi c'est bien..
+  - schemas des parcours utilisateurs
+  - details de fonctionnalitees cool
+  - la suite
+  
+* REMERCIEMENT *
+
+* ANNEXES *

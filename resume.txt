@@ -10,9 +10,9 @@ Le concept est simple, il y a trois types d'utilisateurs:
   en choisissant des creneaux de disponibilitees du lundi au dimanche.
   
   - Les potentiels utilisateurs de ces instruments, ce sont eux qui vont utiliser les instruments publies sur la plateforme.
-  En reservant des creneaux mis a disposition par les proprietaires.
+  En reservant les creneaux mis a disposition par les proprietaires.
   
   - L'administrateur de la plateforme, c'est lui qui valide les annonces d'instruments pour qu'elle soit visible sur l'application.
   Il joue un role de regulation (suppression instruments, utilisateurs..) en cas de non conformite.
   
-Chacun dispose d'un espace personnel pour la gestion de ce qu'il peut faire sur la plateforme (suppression reservation, ajout instruments, modification profil...)
+Chaques types d'utilisateurs dispoce d'un espace personnel different pour la gestion de ce qu'il peut faire sur la plateforme (suppression reservation, ajout instruments, modification profil...)
