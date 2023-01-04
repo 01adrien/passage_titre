@@ -8,3 +8,28 @@ Activitees types :
   - pratique de l'anglais + veille technique
   
 *************
+
+Securite:
+  - same site sur le cookie
+  - session_regenerate_id() apres modification importante ou tous les x min (session hijacking)
+  - OWASP + API
+  - differentes faille
+  - cookie de session
+  
+ 
+MIS EN PLACE:
+  - mots de passe cryptees
+  - input nettoyer (faille XSS)
+  - id session regenerer tous les X ou quand on modifie infos utilisateur
+  - nettoyage session logout
+  - PHP SESSID cookie
+  - controle httporigin, htaccess
+  
+***************
+
+ANNEXE:
+
+  - board zenhub
+  - Config.php
+  - htacces 
+  - index.php
