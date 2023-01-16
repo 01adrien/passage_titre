@@ -15,7 +15,10 @@ Securite:
   - OWASP + API
   - differentes faille
   - cookie de session
-  
+  - preflight sur post et get
+  - devoxx https://www.youtube.com/watch?v=hNlPFCLcOZ4&list=PLTbQvx84FrASVK-B1S2z2fn16dRbLiNdr&index=32
+  - 
+
  
 MIS EN PLACE:
   - mots de passe cryptees
