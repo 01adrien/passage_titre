@@ -46,4 +46,47 @@
   
 * REMERCIEMENT *
 
+
+
+* INTRO *  
+* RAPPEL REFERENCIEL *
+  - Le stage
+  - Le projet
+  - Organisation du projet
+  - Les outils utlises
+  - Premieres considerations techniques
+  
+* UI ET UX *
+  - outil de maquettage et responsive design 
+  - parcours utilisateur
+  
+* ARCHITECTURES ET ENVIRONNEMENTS *
+  - le modele MVC
+  - Developpement et production
+  - gestion des environnements
+  - La base de donnees
+  
+* LE BACKEND *
+  - Les modeles
+  - Les controlleurs
+  - L 'API
+  
+* LE FRONTEND *
+  - Construction de l'interface
+  - Style et responsive
+  - Design System
+  - Custom hooks
+  
+* LA SECURITE *
+  - Les CORS
+  - Les headers
+  - Entrees utilisateur
+  - Les sessions
+  
+* ANNEXES *
+  
+* LE FRONTEND *
+
+  
+
 * ANNEXES *
